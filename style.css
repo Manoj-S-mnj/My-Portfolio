@@ -233,11 +233,7 @@
 }
 /* Media query */
 
-@media  screen and (max-width:500px) {
-    #root{
-        display:flex;
-        justify-content:center;
-    }
+@media  screen and (max-width:480px) {
     #home{
         justify-content:center ;
     }
