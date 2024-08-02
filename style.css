@@ -234,6 +234,10 @@
 /* Media query */
 
 @media  screen and (max-width:500px) {
+    #root{
+        display:flex;
+        justify-content:center;
+    }
     #home{
         justify-content:center ;
     }
